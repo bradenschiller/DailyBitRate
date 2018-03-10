@@ -2,7 +2,7 @@
 
 This is a Bitcoin price tracker for MacOS made with electron.JS
 
----
+
 
 ## What I learned
 
@@ -10,12 +10,12 @@ This is a Bitcoin price tracker for MacOS made with electron.JS
 * Electron JS and its key functionalities
 * Enabling the use of push notification with mac
 
----
+
 
 # Project ScreenShots
 
-![](/images/first-app-photo.png)
+![](assets/images/first-app-photo.png)
 
-![](/images/second-app-photo.png)
+![](assets/images/second-app-photo.png)
 
-![](/images/third-app-photo.png)
+![](assets/images/third-app-photo.png)
