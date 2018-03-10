@@ -12,7 +12,7 @@ This is a Bitcoin price tracker for MacOS made with electron.JS
 
 ---
 
-#Project ScreenShots
+# Project ScreenShots
 
 ![](/images/first-app-photo.png)
 
